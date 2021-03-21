@@ -9,14 +9,14 @@
     text-transform: uppercase;
 }
 html{
-    background-image: url(/assets/the\ witcher\ hell.png);
+    background-image: url(/the\ witcher\ hell.png);
     background-size: cover;
 }
 
 body{
     width: 100vw;
     height: 100vh;
-    background-image: url(/assets/the-witcher-kavil2.png);
+    background-image: url(/the-witcher-kavil2.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
